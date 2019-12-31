@@ -30,10 +30,10 @@ ____________________________
 ____________________________
 Roles
 ____________________________
-Ariel - Front End(React)/Lesson Planning
-Jahaan Rasheed - API Routes & Database(MongoDB)
-Peter Cole - Front End/UX & UI Design
-Anneate Lavastida - Lesson Planning
+Ariel - Front End(React)/Lesson Planning |
+Jahaan Rasheed - API Routes & Database(MongoDB)|
+Peter Cole - Front End/UX & UI Design |
+Anneate Lavastida - Lesson Planning |
 ____________________________
 Future Improvements
 ____________________________
